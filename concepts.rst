@@ -48,9 +48,9 @@ statistical analysis (the letter ``e`` is the most common letter in the English
 alphabet but it's not in Chinese or Russian, so you can see where this can go
 wrong easily).
 
-The most common encoding for characters and letters right now is UTF-8_ and it's
-the only one you should use. In UTF-8 not all characters map onto a single 
-number. Sometimes up to four numbers need to be used to represent a character.
+A common encoding for characters and letters right now is UTF-8_ and it's the
+only one you should use. In UTF-8 not all characters map onto a single number.
+Sometimes up to four numbers need to be used to represent a character.
 
 This allows it to represent all of Unicode_ which is a collection of many
 characters, letters, and icons from around the world. Unicode is confusing
@@ -74,8 +74,8 @@ previous calls and their results and when I go to call the function again I
 first see if I've already called the function with my argument. If so I can
 immediately get the result from the map instead of computing the value again.
 
-This is a prime example of a time/space tradeoff where I trade some space in
-the form of memory for some time in speed.
+This is a example of a time/space tradeoff where I trade some space in the form
+of memory for some time in speed.
 
 Memoization is a form of caching.
 
