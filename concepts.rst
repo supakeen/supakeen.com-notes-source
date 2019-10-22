@@ -9,10 +9,8 @@ concept of Asynchronous I/O can be explained shortly.
 Computers often have to wait for things and while waiting they could be doing
 other things. Asynchronous I/O lets a program ask the computer to let it know
 when some I/O is done. This means the computer can continue with more tasks it
-has to do.
-
-This has grown into an entire idiom often combined with terms such as an event
-loop making it complex to understand.
+has to do and has grown into an entire idiom often combined with terms such as
+an event loop making it complex to understand.
 
 The gist of it is that while your computer is waiting for some I/O another
 thing can start its work. When that task in turn has to wait for some I/O it
