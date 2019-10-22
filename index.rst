@@ -1,20 +1,38 @@
-.. notes documentation master file, created by
-   sphinx-quickstart on Tue Aug 27 20:49:58 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+supakeen
+========
 
-Welcome to notes's documentation!
-=================================
+My notes on things I encounter. I use these notes because writing things down
+makes it easier for me to remember. Writing things down has the added advantage
+that I can link people these notes to learn from my weird way of jotting blurbs
+down.
+
+If you're reading this notes do visit the links in them, they refer to where I
+got my own ideas from.
+
+These notes might be both opinionated but are always simplified, they leave out
+things to fasten learning. If you want to know more about a subject don't take
+these notes as *all there is* but as a starting point.
+
+Some notes might be technically wrong, if you see a flaw in my understanding
+please let me know! My contact information is on my website_.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   algorithms
+   asynchrony
+   books
+   concepts
+   cryptography
+   learning
+   networking
+   open_source
+   operating_systems
+   problems
+   programming
+   protocols
+   random_number_generators
+   security
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. _website: https://supakeen.com/
