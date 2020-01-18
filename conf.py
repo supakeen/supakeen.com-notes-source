@@ -46,7 +46,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.venv', 'venv']
 #
 html_theme = 'alabaster'
 html_theme_options = {
-    "nosidebar": "true",
+    "nosidebar": "false",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
