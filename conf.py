@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'supakeen'
+project = 'Notes'
 copyright = '2019, supakeen'
 author = 'supakeen'
 
