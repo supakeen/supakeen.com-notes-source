@@ -3,7 +3,7 @@ Concepts
 
 Asynchronous I/O
 ================
-While I have an entire page dedicated to my notes on asynchrony_ the
+While I have an entire page dedicated to my notes on :ref:`asynchrony` the
 concept of Asynchronous I/O can be explained shortly.
 
 Computers often have to wait for things and while waiting they could be doing
