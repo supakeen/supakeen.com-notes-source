@@ -87,6 +87,10 @@ does.
 
 Trade-offs
 ==========
+When you exchange one thing for another you're making a trade off. The most
+commonly seen one is the time/space tradeoff which means you're trading some
+space (for example, disk or memory usage) for being faster. Or you can use
+less space and be a bit slower.
 
 .. _ASCII: https://en.wikipedia.org/wiki/ASCII
 .. _Unicode: https://home.unicode.org/basic-info/faq/
