@@ -6,7 +6,7 @@ makes it easier for me to remember. Writing things down has the added advantage
 that I can link people these notes to learn from my weird way of jotting blurbs
 down.
 
-If you're reading this notes do visit the links in them, they refer to where I
+If you're reading these notes do visit the links in them, they refer to where I
 got my own ideas from.
 
 These notes might be both opinionated but are always simplified, they leave out
