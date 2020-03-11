@@ -33,6 +33,6 @@ please let me know! My contact information is on my website_.
    protocols
    random_number_generators
    security
-
+   videos
 
 .. _website: https://supakeen.com/
